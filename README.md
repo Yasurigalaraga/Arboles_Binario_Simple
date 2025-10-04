@@ -48,7 +48,7 @@ Contiene la lógica del programa y el menú interactivo:
 
 ![Opcion1](src/capturas/arbol1.jpg)
 ![Opcion1](src/capturas/arbol2.jpg)
-![Opcion1](src/capturas/arbol3.jpg)
+![Opcion1](src/capturas/arbol3.JPG)
 
 ### OPCIÓN 2
 ![Opcion1](src/capturas/arbol4.jpg)
